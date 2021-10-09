@@ -1,0 +1,5 @@
+创建工程的命令
+	django-admin startproject study
+	查看工程目录tree /f
+运行工程
+	python manage runserver
